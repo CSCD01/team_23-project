@@ -1,0 +1,33 @@
+CSC D01 Deliverable #3 Marking Rubric
+
+42/45
+
+__10_ / 10  (5 marks per issue) DETAILED issue descriptions for both issues considered, including UML diagrams, code traces, etc.
+
+__9_ / 10  Report on reasons for selecting the issue to implement, including DETAILED implementation plans.
+
+Expect you can show your new added functions in you UML (for 11115).
+
+_4__ / 5 A complete and comprehensive acceptance test suite for the selected issue.
+
+Better to have the expected result included in the report.
+
+_9__ / 10  Architecture document. Now that we know more about architecture, we expect a more informed analysis. Among other aspects, the following should be discussed:
+-- architectural style; architectural pattern if applicable
+-- description of all components
+-- description of interfaces between components
+-- discussion of level of coupling between components
+-- discussion of cohesion of components
+-- how are each of the following addressed with architectural choices (if applicable)
+   -- performance
+   -- security
+   -- safety
+   -- availability
+   -- maintainability
+
+
+Generally goood, can talk a little bit more about architectural choices (e.g. give some concrete examples)
+
+__10_ / 10 Presentation and Quality of Writing. Same criteria as before.
+
+
